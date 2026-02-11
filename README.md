@@ -1843,8 +1843,9 @@ Optional<NoteEntity> findByIdWithTags(@Param("id") UUID id);
 
 ```bash
 # Clone repository
-git clone https://github.com/your-org/note-registry.git
-cd note-registry
+git clone https://github.com/Jagdish1123/Hexagonal-Architecture.git
+cd Hexagonal-Architecture
+
 
 # Build project
 mvn clean install
